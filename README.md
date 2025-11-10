@@ -18,8 +18,10 @@ I enjoy learning new technologies, solving problems, and building practical proj
 
 
 ##  Contact
-Email: rajumia102627@gmail.com  
-LinkedIn: (Your link here)
+Email: cse.rajumia@gmail.com  
+LinkedIn: www.linkedin.com/in/
+raju-mia-b9348b384
+
 
 I believe in learning step by step and improving every day.  
 Feel free to explore my repositories!
